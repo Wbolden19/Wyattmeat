@@ -1,0 +1,2544 @@
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+[
+{
+  "conferences": [
+    {
+      "confTeams": [
+        {
+          "abbreviation": "UMHB",
+          "prestige": "82",
+          "state": "Texas",
+          "name": "Mary Hardin-Baylor",
+          "headCoach": {
+            "contractLength": "5",
+            "startYear": "2022",
+            "age": "50",
+            "ratOff": "85",
+            "cumulativePrestige": "80",
+            "ratDef": "87",
+            "homeState": "Texas",
+            "ratTalent": "90",
+            "baselinePrestige": "75",
+            "ratDiscipline": "88",
+            "ratOvr": "85",
+            "name": "Larry Harmon",
+            "contractYear": "2"
+          },
+          "rival": "ETBU"
+        },
+        {
+          "abbreviation": "ETBU",
+          "prestige": "76",
+          "state": "Texas",
+          "name": "East Texas Baptist",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "45",
+            "ratOff": "75",
+            "cumulativePrestige": "70",
+            "ratDef": "72",
+            "homeState": "Texas",
+            "ratTalent": "76",
+            "baselinePrestige": "65",
+            "ratDiscipline": "75",
+            "ratOvr": "72",
+            "name": "Brian Mayper",
+            "contractYear": "3"
+          },
+          "rival": "UMHB"
+        },
+        {
+          "abbreviation": "SRSU",
+          "prestige": "72",
+          "state": "Texas",
+          "name": "Sul Ross State",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "40",
+            "ratOff": "70",
+            "cumulativePrestige": "60",
+            "ratDef": "68",
+            "homeState": "Texas",
+            "ratTalent": "70",
+            "baselinePrestige": "55",
+            "ratDiscipline": "70",
+            "ratOvr": "68",
+            "name": "John D. Waugh",
+            "contractYear": "2"
+          },
+          "rival": "ACU"
+        },
+        {
+          "abbreviation": "HPU",
+          "prestige": "68",
+          "state": "Texas",
+          "name": "Howard Payne",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "48",
+            "ratOff": "66",
+            "cumulativePrestige": "58",
+            "ratDef": "65",
+            "homeState": "Texas",
+            "ratTalent": "60",
+            "baselinePrestige": "60",
+            "ratDiscipline": "66",
+            "ratOvr": "64",
+            "name": "Kris E. Eubanks",
+            "contractYear": "3"
+          },
+          "rival": "SRSU"
+        },
+        {
+          "abbreviation": "TLU",
+          "prestige": "65",
+          "state": "Texas",
+          "name": "Texas Lutheran",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "39",
+            "ratOff": "64",
+            "cumulativePrestige": "50",
+            "ratDef": "62",
+            "homeState": "Texas",
+            "ratTalent": "63",
+            "baselinePrestige": "50",
+            "ratDiscipline": "60",
+            "ratOvr": "60",
+            "name": "Kurtis Smith",
+            "contractYear": "2"
+          },
+          "rival": "HPU"
+        },
+        {
+          "abbreviation": "MC",
+          "prestige": "64",
+          "state": "Texas",
+          "name": "McMurry",
+          "headCoach": {
+            "contractLength": "2",
+            "startYear": "2023",
+            "age": "42",
+            "ratOff": "62",
+            "cumulativePrestige": "55",
+            "ratDef": "60",
+            "homeState": "Texas",
+            "ratTalent": "62",
+            "baselinePrestige": "48",
+            "ratDiscipline": "58",
+            "ratOvr": "60",
+            "name": "Joshua E. Wooten",
+            "contractYear": "1"
+          },
+          "rival": "TLU"
+        },
+        {
+          "abbreviation": "LU",
+          "prestige": "62",
+          "state": "Texas",
+          "name": "Louisiana College",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "37",
+            "ratOff": "60",
+            "cumulativePrestige": "53",
+            "ratDef": "60",
+            "homeState": "Louisiana",
+            "ratTalent": "58",
+            "baselinePrestige": "45",
+            "ratDiscipline": "55",
+            "ratOvr": "57",
+            "name": "Jason V. Martin",
+            "contractYear": "1"
+          },
+          "rival": "SRSU"
+        },
+        {
+          "abbreviation": "BSC",
+          "prestige": "60",
+          "state": "Texas",
+          "name": "Belhaven",
+          "headCoach": {
+            "contractLength": "2",
+            "startYear": "2023",
+            "age": "38",
+            "ratOff": "58",
+            "cumulativePrestige": "50",
+            "ratDef": "55",
+            "homeState": "Mississippi",
+            "ratTalent": "57",
+            "baselinePrestige": "45",
+            "ratDiscipline": "54",
+            "ratOvr": "56",
+            "name": "Steve S. Blount",
+            "contractYear": "1"
+          },
+          "rival": "MC"
+        },
+        {
+          "abbreviation": "PR",
+          "prestige": "58",
+          "state": "Texas",
+          "name": "Pine Ridge",
+          "headCoach": {
+            "contractLength": "2",
+            "startYear": "2023",
+            "age": "36",
+            "ratOff": "56",
+            "cumulativePrestige": "45",
+            "ratDef": "54",
+            "homeState": "Texas",
+            "ratTalent": "55",
+            "baselinePrestige": "43",
+            "ratDiscipline": "52",
+            "ratOvr": "54",
+            "name": "Gregory T. Wong",
+            "contractYear": "1"
+          },
+          "rival": "TLU"
+        }
+      ],
+      "confFullName": "American Southwest Conference",
+      "confPrestige": "80",
+      "confName": "ASC"
+    }
+  ]
+},
+{
+  "conferences": [
+    {
+      "confTeams": [
+        {
+          "abbreviation": "MU",
+          "prestige": "85",
+          "state": "Pennsylvania",
+          "name": "Muhlenberg",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "47",
+            "ratOff": "82",
+            "cumulativePrestige": "80",
+            "ratDef": "85",
+            "homeState": "Pennsylvania",
+            "ratTalent": "90",
+            "baselinePrestige": "78",
+            "ratDiscipline": "83",
+            "ratOvr": "83",
+            "name": "Mike Duffy",
+            "contractYear": "3"
+          },
+          "rival": "JHU"
+        },
+        {
+          "abbreviation": "JHU",
+          "prestige": "84",
+          "state": "Maryland",
+          "name": "Johns Hopkins",
+          "headCoach": {
+            "contractLength": "5",
+            "startYear": "2020",
+            "age": "50",
+            "ratOff": "80",
+            "cumulativePrestige": "82",
+            "ratDef": "83",
+            "homeState": "Maryland",
+            "ratTalent": "88",
+            "baselinePrestige": "80",
+            "ratDiscipline": "84",
+            "ratOvr": "82",
+            "name": "Jim Margraff",
+            "contractYear": "4"
+          },
+          "rival": "MU"
+        },
+        {
+          "abbreviation": "WLC",
+          "prestige": "80",
+          "state": "Pennsylvania",
+          "name": "Westminster",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2022",
+            "age": "43",
+            "ratOff": "78",
+            "cumulativePrestige": "75",
+            "ratDef": "79",
+            "homeState": "Pennsylvania",
+            "ratTalent": "85",
+            "baselinePrestige": "75",
+            "ratDiscipline": "78",
+            "ratOvr": "77",
+            "name": "Kevin A. Decker",
+            "contractYear": "2"
+          },
+          "rival": "F&M"
+        },
+        {
+          "abbreviation": "F&M",
+          "prestige": "78",
+          "state": "Pennsylvania",
+          "name": "Franklin & Marshall",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "41",
+            "ratOff": "76",
+            "cumulativePrestige": "72",
+            "ratDef": "77",
+            "homeState": "Pennsylvania",
+            "ratTalent": "80",
+            "baselinePrestige": "70",
+            "ratDiscipline": "76",
+            "ratOvr": "75",
+            "name": "Mike T. Williams",
+            "contractYear": "1"
+          },
+          "rival": "WLC"
+        },
+        {
+          "abbreviation": "HSC",
+          "prestige": "76",
+          "state": "Virginia",
+          "name": "Hampden-Sydney",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "48",
+            "ratOff": "74",
+            "cumulativePrestige": "69",
+            "ratDef": "75",
+            "homeState": "Virginia",
+            "ratTalent": "78",
+            "baselinePrestige": "68",
+            "ratDiscipline": "74",
+            "ratOvr": "72",
+            "name": "David A. Harvey",
+            "contractYear": "3"
+          },
+          "rival": "F&M"
+        },
+        {
+          "abbreviation": "MC",
+          "prestige": "74",
+          "state": "New Jersey",
+          "name": "Moravian",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "40",
+            "ratOff": "72",
+            "cumulativePrestige": "67",
+            "ratDef": "73",
+            "homeState": "Pennsylvania",
+            "ratTalent": "75",
+            "baselinePrestige": "64",
+            "ratDiscipline": "71",
+            "ratOvr": "70",
+            "name": "James C. Johnson",
+            "contractYear": "2"
+          },
+          "rival": "MU"
+        },
+        {
+          "abbreviation": "GAC",
+          "prestige": "72",
+          "state": "Maryland",
+          "name": "Goucher",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "39",
+            "ratOff": "70",
+            "cumulativePrestige": "63",
+            "ratDef": "71",
+            "homeState": "Maryland",
+            "ratTalent": "72",
+            "baselinePrestige": "60",
+            "ratDiscipline": "69",
+            "ratOvr": "68",
+            "name": "Mark A. Little",
+            "contractYear": "1"
+          },
+          "rival": "JHU"
+        },
+        {
+          "abbreviation": "SWU",
+          "prestige": "70",
+          "state": "Maryland",
+          "name": "Sewanee",
+          "headCoach": {
+            "contractLength": "2",
+            "startYear": "2023",
+            "age": "36",
+            "ratOff": "68",
+            "cumulativePrestige": "58",
+            "ratDef": "67",
+            "homeState": "Tennessee",
+            "ratTalent": "69",
+            "baselinePrestige": "54",
+            "ratDiscipline": "65",
+            "ratOvr": "65",
+            "name": "Robert W. Simon",
+            "contractYear": "1"
+          },
+          "rival": "MC"
+        },
+        {
+          "abbreviation": "WC",
+          "prestige": "68",
+          "state": "Pennsylvania",
+          "name": "Washington & Jefferson",
+          "headCoach": {
+            "contractLength": "2",
+            "startYear": "2022",
+            "age": "41",
+            "ratOff": "66",
+            "cumulativePrestige": "57",
+            "ratDef": "65",
+            "homeState": "Pennsylvania",
+            "ratTalent": "65",
+            "baselinePrestige": "55",
+            "ratDiscipline": "64",
+            "ratOvr": "63",
+            "name": "Brian H. Smith",
+            "contractYear": "1"
+          },
+          "rival": "MU"
+        }
+      ],
+      "confFullName": "Centennial Conference",
+      "confPrestige": "80",
+      "confName": "CC"
+    }
+  ]
+}
+],
+{
+  "conferences": [
+    {
+      "confTeams": [
+        {
+          "abbreviation": "OWU",
+          "prestige": "85",
+          "state": "Ohio",
+          "name": "Ohio Wesleyan",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "45",
+            "ratOff": "82",
+            "cumulativePrestige": "80",
+            "ratDef": "83",
+            "homeState": "Ohio",
+            "ratTalent": "87",
+            "baselinePrestige": "78",
+            "ratDiscipline": "82",
+            "ratOvr": "82",
+            "name": "Mike M. Johnson",
+            "contractYear": "3"
+          },
+          "rival": "Wabash"
+        },
+        {
+          "abbreviation": "WAB",
+          "prestige": "84",
+          "state": "Indiana",
+          "name": "Wabash",
+          "headCoach": {
+            "contractLength": "5",
+            "startYear": "2020",
+            "age": "48",
+            "ratOff": "80",
+            "cumulativePrestige": "79",
+            "ratDef": "85",
+            "homeState": "Indiana",
+            "ratTalent": "90",
+            "baselinePrestige": "75",
+            "ratDiscipline": "83",
+            "ratOvr": "82",
+            "name": "Jim A. Hodge",
+            "contractYear": "4"
+          },
+          "rival": "OWU"
+        },
+        {
+          "abbreviation": "DEN",
+          "prestige": "82",
+          "state": "Ohio",
+          "name": "Denison",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "50",
+            "ratOff": "78",
+            "cumulativePrestige": "76",
+            "ratDef": "79",
+            "homeState": "Ohio",
+            "ratTalent": "84",
+            "baselinePrestige": "73",
+            "ratDiscipline": "80",
+            "ratOvr": "77",
+            "name": "John F. Smith",
+            "contractYear": "3"
+          },
+          "rival": "Wittenberg"
+        },
+        {
+          "abbreviation": "WIT",
+          "prestige": "80",
+          "state": "Ohio",
+          "name": "Wittenberg",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "46",
+            "ratOff": "76",
+            "cumulativePrestige": "74",
+            "ratDef": "78",
+            "homeState": "Ohio",
+            "ratTalent": "82",
+            "baselinePrestige": "71",
+            "ratDiscipline": "75",
+            "ratOvr": "73",
+            "name": "Steve P. Reynolds",
+            "contractYear": "2"
+          },
+          "rival": "Denison"
+        },
+        {
+          "abbreviation": "HSC",
+          "prestige": "78",
+          "state": "Ohio",
+          "name": "Heidelberg",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "41",
+            "ratOff": "74",
+            "cumulativePrestige": "70",
+            "ratDef": "76",
+            "homeState": "Ohio",
+            "ratTalent": "79",
+            "baselinePrestige": "67",
+            "ratDiscipline": "72",
+            "ratOvr": "71",
+            "name": "Tom W. Hayes",
+            "contractYear": "1"
+          },
+          "rival": "Otterbein"
+        },
+        {
+          "abbreviation": "OTT",
+          "prestige": "76",
+          "state": "Ohio",
+          "name": "Otterbein",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "42",
+            "ratOff": "73",
+            "cumulativePrestige": "68",
+            "ratDef": "75",
+            "homeState": "Ohio",
+            "ratTalent": "77",
+            "baselinePrestige": "65",
+            "ratDiscipline": "70",
+            "ratOvr": "69",
+            "name": "Brian J. White",
+            "contractYear": "3"
+          },
+          "rival": "HSC"
+        },
+        {
+          "abbreviation": "CAP",
+          "prestige": "74",
+          "state": "Ohio",
+          "name": "Capital",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "39",
+            "ratOff": "72",
+            "cumulativePrestige": "65",
+            "ratDef": "71",
+            "homeState": "Ohio",
+            "ratTalent": "73",
+            "baselinePrestige": "61",
+            "ratDiscipline": "68",
+            "ratOvr": "66",
+            "name": "Kevin H. Strong",
+            "contractYear": "1"
+          },
+          "rival": "Denison"
+        },
+        {
+          "abbreviation": "WIL",
+          "prestige": "72",
+          "state": "Ohio",
+          "name": "Wilmington",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "37",
+            "ratOff": "70",
+            "cumulativePrestige": "62",
+            "ratDef": "69",
+            "homeState": "Ohio",
+            "ratTalent": "70",
+            "baselinePrestige": "59",
+            "ratDiscipline": "67",
+            "ratOvr": "64",
+            "name": "Brian K. Smith",
+            "contractYear": "2"
+          },
+          "rival": "Wabash"
+        },
+        {
+          "abbreviation": "MUC",
+          "prestige": "70",
+          "state": "Ohio",
+          "name": "Mount Union",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "38",
+            "ratOff": "68",
+            "cumulativePrestige": "60",
+            "ratDef": "66",
+            "homeState": "Ohio",
+            "ratTalent": "69",
+            "baselinePrestige": "58",
+            "ratDiscipline": "65",
+            "ratOvr": "62",
+            "name": "James L. Campbell",
+            "contractYear": "1"
+          },
+          "rival": "Heidelberg"
+        }
+      ],
+      "confFullName": "North Coast Athletic Conference",
+      "confPrestige": "80",
+      "confName": "NCAC"
+    }
+  ]
+}
+],
+{
+  "conferences": [
+    {
+      "confTeams": [
+        {
+          "abbreviation": "RH",
+          "prestige": "82",
+          "state": "Georgia",
+          "name": "Rhodes",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "44",
+            "ratOff": "80",
+            "cumulativePrestige": "79",
+            "ratDef": "83",
+            "homeState": "Georgia",
+            "ratTalent": "85",
+            "baselinePrestige": "75",
+            "ratDiscipline": "80",
+            "ratOvr": "80",
+            "name": "James E. Smith",
+            "contractYear": "3"
+          },
+          "rival": "Birmingham-Southern"
+        },
+        {
+          "abbreviation": "BS",
+          "prestige": "80",
+          "state": "Alabama",
+          "name": "Birmingham-Southern",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "40",
+            "ratOff": "78",
+            "cumulativePrestige": "74",
+            "ratDef": "80",
+            "homeState": "Alabama",
+            "ratTalent": "82",
+            "baselinePrestige": "70",
+            "ratDiscipline": "77",
+            "ratOvr": "76",
+            "name": "Robert K. Lee",
+            "contractYear": "1"
+          },
+          "rival": "Rhodes"
+        },
+        {
+          "abbreviation": "SOU",
+          "prestige": "78",
+          "state": "Tennessee",
+          "name": "Sewanee",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2022",
+            "age": "42",
+            "ratOff": "76",
+            "cumulativePrestige": "70",
+            "ratDef": "78",
+            "homeState": "Tennessee",
+            "ratTalent": "80",
+            "baselinePrestige": "65",
+            "ratDiscipline": "75",
+            "ratOvr": "73",
+            "name": "Daniel R. Clark",
+            "contractYear": "2"
+          },
+          "rival": "Oglethorpe"
+        },
+        {
+          "abbreviation": "OGE",
+          "prestige": "76",
+          "state": "Georgia",
+          "name": "Oglethorpe",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2023",
+            "age": "39",
+            "ratOff": "74",
+            "cumulativePrestige": "68",
+            "ratDef": "76",
+            "homeState": "Georgia",
+            "ratTalent": "78",
+            "baselinePrestige": "63",
+            "ratDiscipline": "72",
+            "ratOvr": "70",
+            "name": "Timothy A. Brown",
+            "contractYear": "1"
+          },
+          "rival": "Sewanee"
+        },
+        {
+          "abbreviation": "MHC",
+          "prestige": "74",
+          "state": "Tennessee",
+          "name": "Maryville",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2021",
+            "age": "45",
+            "ratOff": "72",
+            "cumulativePrestige": "66",
+            "ratDef": "74",
+            "homeState": "Tennessee",
+            "ratTalent": "76",
+            "baselinePrestige": "60",
+            "ratDiscipline": "70",
+            "ratOvr": "68",
+            "name": "Matthew A. Johnson",
+            "contractYear": "3"
+          },
+          "rival": "Sewanee"
+        },
+        {
+          "abbreviation": "BSC",
+          "prestige": "72",
+          "state": "Tennessee",
+          "name": "Brevard",
+          "headCoach": {
+            "contractLength": "3",
+            "startYear": "2022",
+            "age": "38",
+            "ratOff": "70",
+            "cumulativePrestige": "62",
+            "ratDef": "72",
+            "homeState": "Tennessee",
+            "ratTalent": "74",
+            "baselinePrestige": "58",
+            "ratDiscipline": "67",
+            "ratOvr": "65",
+            "name": "Jacob T. Harris",
+            "contractYear": "2"
+          },
+          "rival": "Maryville"
+        },
+        {
+          "abbreviation": "MC",
+          "prestige": "70",
+          "state": "Tennessee",
+          "name": "Centre",
+          "headCoach": {
+            "contractLength": "4",
+            "startYear": "2023",
+            "age": "36",
+            "ratOff": "68",
+            "cumulativePrestige": "60",
+            "ratDef": "70",
+            "homeState": "Tennessee",
+            "ratTalent": "72",
+            "baselinePrestige": "56",
+            "ratDiscipline": "65",
+            "ratOvr": "62",
+            "name": "Lucas P. Walker",
+            "contractYear": "1"
+          },
+          "rival": "Sewanee"
+        }
+      ],
+      "confFullName": "Southern Athletic Association",
+      "confPrestige": "76",
+      "confName": "SAA"
+    }
+  ]
+}
+],
+{
+  "confTeams" : [
+    {
+      "abbreviation" : "MOUNT",
+      "prestige" : "95",
+      "state" : "Ohio",
+      "name" : "Mount Union",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2018",
+        "age" : "52",
+        "ratOff" : "90",
+        "cumulativePrestige" : "100",
+        "ratDef" : "95",
+        "homeState" : "Ohio",
+        "ratTalent" : "95",
+        "baselinePrestige" : "85",
+        "ratDiscipline" : "90",
+        "ratOvr" : "95",
+        "name" : "Vince Kehres",
+        "contractYear" : "2"
+      },
+      "rival" : "BW"
+    },
+    {
+      "abbreviation" : "BW",
+      "prestige" : "85",
+      "state" : "Ohio",
+      "name" : "Baldwin Wallace",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2020",
+        "age" : "47",
+        "ratOff" : "85",
+        "cumulativePrestige" : "85",
+        "ratDef" : "80",
+        "homeState" : "Ohio",
+        "ratTalent" : "85",
+        "baselinePrestige" : "70",
+        "ratDiscipline" : "85",
+        "ratOvr" : "85",
+        "name" : "John Snell",
+        "contractYear" : "3"
+      },
+      "rival" : "MOUNT"
+    },
+    {
+      "abbreviation" : "ONU",
+      "prestige" : "82",
+      "state" : "Ohio",
+      "name" : "Ohio Northern",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2019",
+        "age" : "51",
+        "ratOff" : "80",
+        "cumulativePrestige" : "80",
+        "ratDef" : "78",
+        "homeState" : "Ohio",
+        "ratTalent" : "80",
+        "baselinePrestige" : "65",
+        "ratDiscipline" : "80",
+        "ratOvr" : "82",
+        "name" : "Dean Paul",
+        "contractYear" : "2"
+      },
+      "rival" : "CAP"
+    },
+    {
+      "abbreviation" : "CAP",
+      "prestige" : "80",
+      "state" : "Ohio",
+      "name" : "Capital",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2020",
+        "age" : "48",
+        "ratOff" : "75",
+        "cumulativePrestige" : "78",
+        "ratDef" : "78",
+        "homeState" : "Ohio",
+        "ratTalent" : "80",
+        "baselinePrestige" : "60",
+        "ratDiscipline" : "80",
+        "ratOvr" : "80",
+        "name" : "Chad Rogosheske",
+        "contractYear" : "3"
+      },
+      "rival" : "ONU"
+    },
+    {
+      "abbreviation" : "HEID",
+      "prestige" : "75",
+      "state" : "Ohio",
+      "name" : "Heidelberg",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2019",
+        "age" : "50",
+        "ratOff" : "78",
+        "cumulativePrestige" : "75",
+        "ratDef" : "70",
+        "homeState" : "Ohio",
+        "ratTalent" : "75",
+        "baselinePrestige" : "55",
+        "ratDiscipline" : "75",
+        "ratOvr" : "75",
+        "name" : "Scott Donaldson",
+        "contractYear" : "2"
+      },
+      "rival" : "OTTER"
+    },
+    {
+      "abbreviation" : "OTTER",
+      "prestige" : "70",
+      "state" : "Ohio",
+      "name" : "Otterbein",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2018",
+        "age" : "49",
+        "ratOff" : "70",
+        "cumulativePrestige" : "70",
+        "ratDef" : "72",
+        "homeState" : "Ohio",
+        "ratTalent" : "68",
+        "baselinePrestige" : "60",
+        "ratDiscipline" : "72",
+        "ratOvr" : "70",
+        "name" : "Tim Doup",
+        "contractYear" : "4"
+      },
+      "rival" : "HEID"
+    },
+    {
+      "abbreviation" : "MAR",
+      "prestige" : "65",
+      "state" : "Ohio",
+      "name" : "Marietta",
+      "headCoach" : {
+        "contractLength" : "3",
+        "startYear" : "2020",
+        "age" : "46",
+        "ratOff" : "68",
+        "cumulativePrestige" : "65",
+        "ratDef" : "70",
+        "homeState" : "Ohio",
+        "ratTalent" : "68",
+        "baselinePrestige" : "60",
+        "ratDiscipline" : "68",
+        "ratOvr" : "65",
+        "name" : "Andy Waddle",
+        "contractYear" : "2"
+      },
+      "rival" : "WILM"
+    },
+    {
+      "abbreviation" : "WILM",
+      "prestige" : "60",
+      "state" : "Ohio",
+      "name" : "Wilmington",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2020",
+        "age" : "50",
+        "ratOff" : "65",
+        "cumulativePrestige" : "60",
+        "ratDef" : "68",
+        "homeState" : "Ohio",
+        "ratTalent" : "65",
+        "baselinePrestige" : "55",
+        "ratDiscipline" : "65",
+        "ratOvr" : "60",
+        "name" : "Bryan Moore",
+        "contractYear" : "2"
+      },
+      "rival" : "MAR"
+    },
+    {
+      "abbreviation" : "MUSK",
+      "prestige" : "55",
+      "state" : "Ohio",
+      "name" : "Muskingum",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "48",
+        "ratOff" : "60",
+        "cumulativePrestige" : "55",
+        "ratDef" : "58",
+        "homeState" : "Ohio",
+        "ratTalent" : "55",
+        "baselinePrestige" : "50",
+        "ratDiscipline" : "60",
+        "ratOvr" : "55",
+        "name" : "Erik Ieuter",
+        "contractYear" : "3"
+      },
+      "rival" : "MARI"
+    },
+    {
+      "abbreviation" : "MARI",
+      "prestige" : "50",
+      "state" : "Ohio",
+      "name" : "Marietta",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2019",
+        "age" : "46",
+        "ratOff" : "55",
+        "cumulativePrestige" : "50",
+        "ratDef" : "58",
+        "homeState" : "Ohio",
+        "ratTalent" : "50",
+        "baselinePrestige" : "45",
+        "ratDiscipline" : "55",
+        "ratOvr" : "50",
+        "name" : "Andy Waddle",
+        "contractYear" : "2"
+      },
+      "rival" : "MUSK"
+    }
+  ],
+  "confFullName" : "Ohio Athletic Conference",
+  "confPrestige" : "92",
+  "confName" : "OAC"
+}
+],
+{
+  "confTeams" : [
+    {
+      "abbreviation" : "HOPE",
+      "prestige" : "85",
+      "state" : "Michigan",
+      "name" : "Hope",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2019",
+        "age" : "50",
+        "ratOff" : "82",
+        "cumulativePrestige" : "85",
+        "ratDef" : "80",
+        "homeState" : "Michigan",
+        "ratTalent" : "85",
+        "baselinePrestige" : "70",
+        "ratDiscipline" : "82",
+        "ratOvr" : "85",
+        "name" : "Peter Stuursma",
+        "contractYear" : "3"
+      },
+      "rival" : "ALMA"
+    },
+    {
+      "abbreviation" : "ALMA",
+      "prestige" : "80",
+      "state" : "Michigan",
+      "name" : "Alma",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2020",
+        "age" : "47",
+        "ratOff" : "80",
+        "cumulativePrestige" : "80",
+        "ratDef" : "78",
+        "homeState" : "Michigan",
+        "ratTalent" : "80",
+        "baselinePrestige" : "65",
+        "ratDiscipline" : "80",
+        "ratOvr" : "80",
+        "name" : "Jason Couch",
+        "contractYear" : "3"
+      },
+      "rival" : "HOPE"
+    },
+    {
+      "abbreviation" : "KZOO",
+      "prestige" : "75",
+      "state" : "Michigan",
+      "name" : "Kalamazoo",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2021",
+        "age" : "52",
+        "ratOff" : "78",
+        "cumulativePrestige" : "75",
+        "ratDef" : "72",
+        "homeState" : "Michigan",
+        "ratTalent" : "75",
+        "baselinePrestige" : "60",
+        "ratDiscipline" : "75",
+        "ratOvr" : "75",
+        "name" : "Jamie Zorbo",
+        "contractYear" : "2"
+      },
+      "rival" : "ALBION"
+    },
+    {
+      "abbreviation" : "ALBION",
+      "prestige" : "70",
+      "state" : "Michigan",
+      "name" : "Albion",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2018",
+        "age" : "48",
+        "ratOff" : "75",
+        "cumulativePrestige" : "70",
+        "ratDef" : "70",
+        "homeState" : "Michigan",
+        "ratTalent" : "72",
+        "baselinePrestige" : "60",
+        "ratDiscipline" : "72",
+        "ratOvr" : "70",
+        "name" : "Dustin Beurer",
+        "contractYear" : "4"
+      },
+      "rival" : "KZOO"
+    },
+    {
+      "abbreviation" : "TRINE",
+      "prestige" : "65",
+      "state" : "Indiana",
+      "name" : "Trine",
+      "headCoach" : {
+        "contractLength" : "3",
+        "startYear" : "2021",
+        "age" : "46",
+        "ratOff" : "70",
+        "cumulativePrestige" : "65",
+        "ratDef" : "68",
+        "homeState" : "Indiana",
+        "ratTalent" : "65",
+        "baselinePrestige" : "55",
+        "ratDiscipline" : "68",
+        "ratOvr" : "65",
+        "name" : "Troy Abbs",
+        "contractYear" : "2"
+      },
+      "rival" : "OLIVET"
+    },
+    {
+      "abbreviation" : "OLIVET",
+      "prestige" : "60",
+      "state" : "Michigan",
+      "name" : "Olivet",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "50",
+        "ratOff" : "65",
+        "cumulativePrestige" : "60",
+        "ratDef" : "60",
+        "homeState" : "Michigan",
+        "ratTalent" : "60",
+        "baselinePrestige" : "50",
+        "ratDiscipline" : "60",
+        "ratOvr" : "60",
+        "name" : "Dan Pifer",
+        "contractYear" : "3"
+      },
+      "rival" : "TRINE"
+    },
+    {
+      "abbreviation" : "ADRIAN",
+      "prestige" : "55",
+      "state" : "Michigan",
+      "name" : "Adrian",
+      "headCoach" : {
+        "contractLength" : "3",
+        "startYear" : "2022",
+        "age" : "48",
+        "ratOff" : "60",
+        "cumulativePrestige" : "55",
+        "ratDef" : "58",
+        "homeState" : "Michigan",
+        "ratTalent" : "55",
+        "baselinePrestige" : "50",
+        "ratDiscipline" : "58",
+        "ratOvr" : "55",
+        "name" : "Harry Bailey",
+        "contractYear" : "2"
+      },
+      "rival" : "OLIVET"
+    },
+    {
+      "abbreviation" : "ALBERT",
+      "prestige" : "50",
+      "state" : "Michigan",
+      "name" : "Albion",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2021",
+        "age" : "50",
+        "ratOff" : "55",
+        "cumulativePrestige" : "50",
+        "ratDef" : "58",
+        "homeState" : "Michigan",
+        "ratTalent" : "50",
+        "baselinePrestige" : "45",
+        "ratDiscipline" : "55",
+        "ratOvr" : "50",
+        "name" : "Dustin Beurer",
+        "contractYear" : "2"
+      },
+      "rival" : "ADRIAN"
+    }
+  ],
+  "confFullName" : "Michigan Intercollegiate Athletic Association",
+  "confPrestige" : "88",
+  "confName" : "MIAA"
+}
+]],
+
+{
+  "conferenceTeams" : [
+    {
+      "abbreviation" : "MC",
+      "prestige" : "85",
+      "state" : "Illinois",
+      "name" : "Monmouth College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "45",
+        "ratOff" : "85",
+        "cumulativePrestige" : "85",
+        "ratDef" : "84",
+        "homeState" : "Illinois",
+        "ratTalent" : "87",
+        "baselinePrestige" : "80",
+        "ratDiscipline" : "83",
+        "ratOvr" : "86",
+        "name" : "Chad Braun",
+        "contractYear" : "3"
+      },
+      "rival" : "KNO"
+    },
+    {
+      "abbreviation" : "LC",
+      "prestige" : "83",
+      "state" : "Wisconsin",
+      "name" : "Lake Forest",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "47",
+        "ratOff" : "82",
+        "cumulativePrestige" : "83",
+        "ratDef" : "85",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "85",
+        "baselinePrestige" : "78",
+        "ratDiscipline" : "80",
+        "ratOvr" : "83",
+        "name" : "Kevin Marquardt",
+        "contractYear" : "4"
+      },
+      "rival" : "RIP"
+    },
+    {
+      "abbreviation" : "KNX",
+      "prestige" : "81",
+      "state" : "Illinois",
+      "name" : "Knox College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "52",
+        "ratOff" : "80",
+        "cumulativePrestige" : "81",
+        "ratDef" : "83",
+        "homeState" : "Illinois",
+        "ratTalent" : "80",
+        "baselinePrestige" : "76",
+        "ratDiscipline" : "82",
+        "ratOvr" : "81",
+        "name" : "Sam Richardson",
+        "contractYear" : "2"
+      },
+      "rival" : "MC"
+    },
+    {
+      "abbreviation" : "GRN",
+      "prestige" : "80",
+      "state" : "Iowa",
+      "name" : "Grinnell College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "50",
+        "ratOff" : "79",
+        "cumulativePrestige" : "80",
+        "ratDef" : "81",
+        "homeState" : "Iowa",
+        "ratTalent" : "82",
+        "baselinePrestige" : "75",
+        "ratDiscipline" : "79",
+        "ratOvr" : "80",
+        "name" : "Frank Dawson",
+        "contractYear" : "3"
+      },
+      "rival" : "KNO"
+    },
+    {
+      "abbreviation" : "BEL",
+      "prestige" : "79",
+      "state" : "Wisconsin",
+      "name" : "Beloit College",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "48",
+        "ratOff" : "78",
+        "cumulativePrestige" : "79",
+        "ratDef" : "80",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "81",
+        "baselinePrestige" : "74",
+        "ratDiscipline" : "77",
+        "ratOvr" : "79",
+        "name" : "Tom Harris",
+        "contractYear" : "4"
+      },
+      "rival" : "RIP"
+    },
+    {
+      "abbreviation" : "RIP",
+      "prestige" : "78",
+      "state" : "Wisconsin",
+      "name" : "Ripon College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "49",
+        "ratOff" : "77",
+        "cumulativePrestige" : "78",
+        "ratDef" : "79",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "80",
+        "baselinePrestige" : "73",
+        "ratDiscipline" : "76",
+        "ratOvr" : "78",
+        "name" : "David Larson",
+        "contractYear" : "3"
+      },
+      "rival" : "BEL"
+    },
+    {
+      "abbreviation" : "IC",
+      "prestige" : "77",
+      "state" : "Illinois",
+      "name" : "Illinois College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "45",
+        "ratOff" : "75",
+        "cumulativePrestige" : "77",
+        "ratDef" : "78",
+        "homeState" : "Illinois",
+        "ratTalent" : "79",
+        "baselinePrestige" : "72",
+        "ratDiscipline" : "75",
+        "ratOvr" : "77",
+        "name" : "Mike Adams",
+        "contractYear" : "2"
+      },
+      "rival" : "LAW"
+    },
+    {
+      "abbreviation" : "LAW",
+      "prestige" : "76",
+      "state" : "Wisconsin",
+      "name" : "Lawrence University",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "46",
+        "ratOff" : "74",
+        "cumulativePrestige" : "76",
+        "ratDef" : "77",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "78",
+        "baselinePrestige" : "71",
+        "ratDiscipline" : "74",
+        "ratOvr" : "76",
+        "name" : "Richard White",
+        "contractYear" : "4"
+      },
+      "rival" : "IC"
+    },
+    {
+      "abbreviation" : "SNC",
+      "prestige" : "75",
+      "state" : "Wisconsin",
+      "name" : "St. Norbert College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "48",
+        "ratOff" : "73",
+        "cumulativePrestige" : "75",
+        "ratDef" : "76",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "77",
+        "baselinePrestige" : "70",
+        "ratDiscipline" : "73",
+        "ratOvr" : "75",
+        "name" : "Mark Nelson",
+        "contractYear" : "3"
+      },
+      "rival" : "LC"
+    },
+    {
+      "abbreviation" : "CC",
+      "prestige" : "74",
+      "state" : "Iowa",
+      "name" : "Cornell College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "52",
+        "ratOff" : "72",
+        "cumulativePrestige" : "74",
+        "ratDef" : "75",
+        "homeState" : "Iowa",
+        "ratTalent" : "76",
+        "baselinePrestige" : "69",
+        "ratDiscipline" : "72",
+        "ratOvr" : "74",
+        "name" : "George Allen",
+        "contractYear" : "2"
+      },
+      "rival" : "GRN"
+    }
+  ],
+  "confFullName" : "Midwest Conference",
+  "confPrestige" : "82",
+  "confName" : "MWC"
+}
+],
+{
+  "conferenceTeams" : [
+    {
+      "abbreviation" : "UWW",
+      "prestige" : "95",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Whitewater",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "46",
+        "ratOff" : "95",
+        "cumulativePrestige" : "95",
+        "ratDef" : "93",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "96",
+        "baselinePrestige" : "90",
+        "ratDiscipline" : "94",
+        "ratOvr" : "95",
+        "name" : "Pat Miller",
+        "contractYear" : "3"
+      },
+      "rival" : "UWL"
+    },
+    {
+      "abbreviation" : "UWL",
+      "prestige" : "90",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-La Crosse",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "48",
+        "ratOff" : "88",
+        "cumulativePrestige" : "90",
+        "ratDef" : "89",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "91",
+        "baselinePrestige" : "87",
+        "ratDiscipline" : "90",
+        "ratOvr" : "90",
+        "name" : "Tom Jensen",
+        "contractYear" : "2"
+      },
+      "rival" : "UWW"
+    },
+    {
+      "abbreviation" : "UWSP",
+      "prestige" : "87",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Stevens Point",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "49",
+        "ratOff" : "86",
+        "cumulativePrestige" : "87",
+        "ratDef" : "88",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "88",
+        "baselinePrestige" : "83",
+        "ratDiscipline" : "85",
+        "ratOvr" : "87",
+        "name" : "Steve Williams",
+        "contractYear" : "3"
+      },
+      "rival" : "UWL"
+    },
+    {
+      "abbreviation" : "UWO",
+      "prestige" : "85",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Oshkosh",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "47",
+        "ratOff" : "85",
+        "cumulativePrestige" : "85",
+        "ratDef" : "83",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "87",
+        "baselinePrestige" : "80",
+        "ratDiscipline" : "86",
+        "ratOvr" : "85",
+        "name" : "Ron Matthews",
+        "contractYear" : "4"
+      },
+      "rival" : "UWSP"
+    },
+    {
+      "abbreviation" : "UWEC",
+      "prestige" : "83",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Eau Claire",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "51",
+        "ratOff" : "82",
+        "cumulativePrestige" : "83",
+        "ratDef" : "84",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "85",
+        "baselinePrestige" : "78",
+        "ratDiscipline" : "82",
+        "ratOvr" : "83",
+        "name" : "John Cooper",
+        "contractYear" : "2"
+      },
+      "rival" : "UWO"
+    },
+    {
+      "abbreviation" : "UWRF",
+      "prestige" : "82",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-River Falls",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "48",
+        "ratOff" : "81",
+        "cumulativePrestige" : "82",
+        "ratDef" : "83",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "84",
+        "baselinePrestige" : "77",
+        "ratDiscipline" : "81",
+        "ratOvr" : "82",
+        "name" : "Mike Daniels",
+        "contractYear" : "3"
+      },
+      "rival" : "UWEC"
+    },
+    {
+      "abbreviation" : "UWP",
+      "prestige" : "80",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Platteville",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "50",
+        "ratOff" : "80",
+        "cumulativePrestige" : "80",
+        "ratDef" : "81",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "82",
+        "baselinePrestige" : "76",
+        "ratDiscipline" : "79",
+        "ratOvr" : "80",
+        "name" : "Tom Burke",
+        "contractYear" : "4"
+      },
+      "rival" : "UWRF"
+    },
+    {
+      "abbreviation" : "UWST",
+      "prestige" : "78",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Stout",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "52",
+        "ratOff" : "77",
+        "cumulativePrestige" : "78",
+        "ratDef" : "79",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "81",
+        "baselinePrestige" : "74",
+        "ratDiscipline" : "77",
+        "ratOvr" : "78",
+        "name" : "Greg Patterson",
+        "contractYear" : "2"
+      },
+      "rival" : "UWP"
+    },
+    {
+      "abbreviation" : "UWS",
+      "prestige" : "76",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Superior",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "51",
+        "ratOff" : "75",
+        "cumulativePrestige" : "76",
+        "ratDef" : "77",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "80",
+        "baselinePrestige" : "72",
+        "ratDiscipline" : "75",
+        "ratOvr" : "76",
+        "name" : "Don Parker",
+        "contractYear" : "3"
+      },
+      "rival" : "UWST"
+    },
+    {
+      "abbreviation" : "UWGB",
+      "prestige" : "75",
+      "state" : "Wisconsin",
+      "name" : "University of Wisconsin-Green Bay",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "47",
+        "ratOff" : "74",
+        "cumulativePrestige" : "75",
+        "ratDef" : "76",
+        "homeState" : "Wisconsin",
+        "ratTalent" : "79",
+        "baselinePrestige" : "71",
+        "ratDiscipline" : "74",
+        "ratOvr" : "75",
+        "name" : "Joe Mills",
+        "contractYear" : "4"
+      },
+      "rival" : "UWS"
+    }
+  ],
+  "confFullName" : "Wisconsin Intercollegiate Athletic Conference",
+  "confPrestige" : "89",
+  "confName" : "WIAC"
+}
+],
+{
+  "conferenceTeams" : [
+    {
+      "abbreviation" : "AMH",
+      "prestige" : "93",
+      "state" : "Massachusetts",
+      "name" : "Amherst College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2021",
+        "age" : "54",
+        "ratOff" : "90",
+        "cumulativePrestige" : "93",
+        "ratDef" : "92",
+        "homeState" : "Massachusetts",
+        "ratTalent" : "95",
+        "baselinePrestige" : "90",
+        "ratDiscipline" : "92",
+        "ratOvr" : "93",
+        "name" : "Chris Mills",
+        "contractYear" : "3"
+      },
+      "rival" : "WIL"
+    },
+    {
+      "abbreviation" : "WIL",
+      "prestige" : "90",
+      "state" : "Massachusetts",
+      "name" : "Williams College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2020",
+        "age" : "52",
+        "ratOff" : "88",
+        "cumulativePrestige" : "90",
+        "ratDef" : "89",
+        "homeState" : "Massachusetts",
+        "ratTalent" : "91",
+        "baselinePrestige" : "88",
+        "ratDiscipline" : "90",
+        "ratOvr" : "90",
+        "name" : "Tom Warren",
+        "contractYear" : "4"
+      },
+      "rival" : "AMH"
+    },
+    {
+      "abbreviation" : "MID",
+      "prestige" : "88",
+      "state" : "Vermont",
+      "name" : "Middlebury College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "50",
+        "ratOff" : "87",
+        "cumulativePrestige" : "88",
+        "ratDef" : "86",
+        "homeState" : "Vermont",
+        "ratTalent" : "89",
+        "baselinePrestige" : "85",
+        "ratDiscipline" : "88",
+        "ratOvr" : "88",
+        "name" : "John Smith",
+        "contractYear" : "2"
+      },
+      "rival" : "BOW"
+    },
+    {
+      "abbreviation" : "BOW",
+      "prestige" : "86",
+      "state" : "Maine",
+      "name" : "Bowdoin College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "49",
+        "ratOff" : "85",
+        "cumulativePrestige" : "86",
+        "ratDef" : "87",
+        "homeState" : "Maine",
+        "ratTalent" : "88",
+        "baselinePrestige" : "83",
+        "ratDiscipline" : "86",
+        "ratOvr" : "86",
+        "name" : "Sam Darnell",
+        "contractYear" : "3"
+      },
+      "rival" : "MID"
+    },
+    {
+      "abbreviation" : "TUF",
+      "prestige" : "85",
+      "state" : "Massachusetts",
+      "name" : "Tufts University",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "53",
+        "ratOff" : "84",
+        "cumulativePrestige" : "85",
+        "ratDef" : "83",
+        "homeState" : "Massachusetts",
+        "ratTalent" : "86",
+        "baselinePrestige" : "82",
+        "ratDiscipline" : "85",
+        "ratOvr" : "85",
+        "name" : "Bill Peterson",
+        "contractYear" : "4"
+      },
+      "rival" : "TRI"
+    },
+    {
+      "abbreviation" : "TRI",
+      "prestige" : "83",
+      "state" : "Connecticut",
+      "name" : "Trinity College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "50",
+        "ratOff" : "82",
+        "cumulativePrestige" : "83",
+        "ratDef" : "84",
+        "homeState" : "Connecticut",
+        "ratTalent" : "85",
+        "baselinePrestige" : "79",
+        "ratDiscipline" : "83",
+        "ratOvr" : "83",
+        "name" : "Tom Bryant",
+        "contractYear" : "3"
+      },
+      "rival" : "TUF"
+    },
+    {
+      "abbreviation" : "BAT",
+      "prestige" : "81",
+      "state" : "Connecticut",
+      "name" : "Bates College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "51",
+        "ratOff" : "80",
+        "cumulativePrestige" : "81",
+        "ratDef" : "82",
+        "homeState" : "Connecticut",
+        "ratTalent" : "83",
+        "baselinePrestige" : "77",
+        "ratDiscipline" : "81",
+        "ratOvr" : "81",
+        "name" : "Doug Simpson",
+        "contractYear" : "2"
+      },
+      "rival" : "HAM"
+    },
+    {
+      "abbreviation" : "HAM",
+      "prestige" : "80",
+      "state" : "New York",
+      "name" : "Hamilton College",
+      "headCoach" : {
+        "contractLength" : "4",
+        "startYear" : "2020",
+        "age" : "53",
+        "ratOff" : "78",
+        "cumulativePrestige" : "80",
+        "ratDef" : "81",
+        "homeState" : "New York",
+        "ratTalent" : "82",
+        "baselinePrestige" : "75",
+        "ratDiscipline" : "80",
+        "ratOvr" : "80",
+        "name" : "Frank Cooper",
+        "contractYear" : "4"
+      },
+      "rival" : "BAT"
+    },
+    {
+      "abbreviation" : "COL",
+      "prestige" : "78",
+      "state" : "Maine",
+      "name" : "Colby College",
+      "headCoach" : {
+        "contractLength" : "5",
+        "startYear" : "2021",
+        "age" : "48",
+        "ratOff" : "77",
+        "cumulativePrestige" : "78",
+        "ratDef" : "79",
+        "homeState" : "Maine",
+        "ratTalent" : "80",
+        "baselinePrestige" : "74",
+        "ratDiscipline" : "78",
+        "ratOvr" : "78",
+        "name" : "Jim Davis",
+        "contractYear" : "3"
+      },
+      "rival" : "WIL"
+    },
+    {
+      "abbreviation" : "CON",
+      "prestige" : "75",
+      "state" : "Connecticut",
+      "name" : "Connecticut College",
+      "headCoach" : {
+        "contractLength" : "6",
+        "startYear" : "2022",
+        "age" : "52",
+        "ratOff" : "74",
+        "cumulativePrestige" : "75",
+        "ratDef" : "76",
+        "homeState" : "Connecticut",
+        "ratTalent" : "79",
+        "baselinePrestige" : "72",
+        "ratDiscipline" : "75",
+        "ratOvr" : "75",
+        "name" : "Jack Porter",
+        "contractYear" : "2"
+      },
+      "rival" : "TUF"
+    }
+  ],
+  "confFullName" : "New England Small College Athletic Conference",
+  "confPrestige" : "85",
+  "confName" : "NESCAC"
+}
+],
+{
+  "confTeams": [
+    {
+      "abbreviation": "BERRY",
+      "prestige": "60",
+      "state": "Georgia",
+      "name": "Berry College",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "45",
+        "ratOff": "76",
+        "cumulativePrestige": "40",
+        "ratDef": "70",
+        "homeState": "Georgia",
+        "ratTalent": "75",
+        "baselinePrestige": "65",
+        "ratDiscipline": "70",
+        "ratOvr": "72",
+        "name": "Terry Horan",
+        "contractYear": "2"
+      },
+      "rival": "Sewanee"
+    },
+    {
+      "abbreviation": "BIRM",
+      "prestige": "57",
+      "state": "Alabama",
+      "name": "Birmingham-Southern College",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2019",
+        "age": "50",
+        "ratOff": "74",
+        "cumulativePrestige": "35",
+        "ratDef": "65",
+        "homeState": "Alabama",
+        "ratTalent": "70",
+        "baselinePrestige": "60",
+        "ratDiscipline": "68",
+        "ratOvr": "71",
+        "name": "Tony Joe White",
+        "contractYear": "1"
+      },
+      "rival": "Hendrix"
+    },
+    {
+      "abbreviation": "RH",
+      "prestige": "55",
+      "state": "Arkansas",
+      "name": "Hendrix College",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2020",
+        "age": "38",
+        "ratOff": "70",
+        "cumulativePrestige": "30",
+        "ratDef": "62",
+        "homeState": "Arkansas",
+        "ratTalent": "68",
+        "baselinePrestige": "55",
+        "ratDiscipline": "65",
+        "ratOvr": "68",
+        "name": "Buck Buchanan",
+        "contractYear": "2"
+      },
+      "rival": "BIRM"
+    },
+    {
+      "abbreviation": "MILLS",
+      "prestige": "54",
+      "state": "Arkansas",
+      "name": "Millsaps College",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "47",
+        "ratOff": "73",
+        "cumulativePrestige": "25",
+        "ratDef": "60",
+        "homeState": "Mississippi",
+        "ratTalent": "66",
+        "baselinePrestige": "58",
+        "ratDiscipline": "64",
+        "ratOvr": "67",
+        "name": "Mike Dubose",
+        "contractYear": "3"
+      },
+      "rival": "Rhodes"
+    },
+    {
+      "abbreviation": "RHODES",
+      "prestige": "52",
+      "state": "Tennessee",
+      "name": "Rhodes College",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2021",
+        "age": "42",
+        "ratOff": "71",
+        "cumulativePrestige": "20",
+        "ratDef": "62",
+        "homeState": "Tennessee",
+        "ratTalent": "65",
+        "baselinePrestige": "55",
+        "ratDiscipline": "63",
+        "ratOvr": "67",
+        "name": "Scott A. Wylie",
+        "contractYear": "2"
+      },
+      "rival": "MILLS"
+    },
+    {
+      "abbreviation": "SEW",
+      "prestige": "51",
+      "state": "Tennessee",
+      "name": "Sewanee",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "45",
+        "ratOff": "68",
+        "cumulativePrestige": "22",
+        "ratDef": "60",
+        "homeState": "Tennessee",
+        "ratTalent": "62",
+        "baselinePrestige": "50",
+        "ratDiscipline": "61",
+        "ratOvr": "64",
+        "name": "Allan Leonard",
+        "contractYear": "2"
+      },
+      "rival": "BERRY"
+    },
+    {
+      "abbreviation": "CENT",
+      "prestige": "50",
+      "state": "Arkansas",
+      "name": "Centenary College",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2019",
+        "age": "40",
+        "ratOff": "66",
+        "cumulativePrestige": "25",
+        "ratDef": "62",
+        "homeState": "Louisiana",
+        "ratTalent": "60",
+        "baselinePrestige": "50",
+        "ratDiscipline": "58",
+        "ratOvr": "61",
+        "name": "Kurt G. Bonaparte",
+        "contractYear": "1"
+      },
+      "rival": "MILLS"
+    },
+    {
+      "abbreviation": "CLARK",
+      "prestige": "49",
+      "state": "Georgia",
+      "name": "Clark Atlanta University",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2021",
+        "age": "48",
+        "ratOff": "65",
+        "cumulativePrestige": "20",
+        "ratDef": "58",
+        "homeState": "Georgia",
+        "ratTalent": "58",
+        "baselinePrestige": "50",
+        "ratDiscipline": "56",
+        "ratOvr": "59",
+        "name": "Emmett H. McNeal",
+        "contractYear": "1"
+      },
+      "rival": "BERRY"
+    },
+    {
+      "abbreviation": "BIE",
+      "prestige": "48",
+      "state": "Georgia",
+      "name": "Benedict College",
+      "headCoach": {
+        "contractLength": "2",
+        "startYear": "2022",
+        "age": "35",
+        "ratOff": "62",
+        "cumulativePrestige": "18",
+        "ratDef": "55",
+        "homeState": "South Carolina",
+        "ratTalent": "56",
+        "baselinePrestige": "48",
+        "ratDiscipline": "52",
+        "ratOvr": "54",
+        "name": "Marcus J. Hudson",
+        "contractYear": "1"
+      },
+      "rival": "Hendrix"
+    },
+    {
+      "abbreviation": "DILL",
+      "prestige": "47",
+      "state": "Tennessee",
+      "name": "Dillard University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2019",
+        "age": "55",
+        "ratOff": "61",
+        "cumulativePrestige": "15",
+        "ratDef": "53",
+        "homeState": "Louisiana",
+        "ratTalent": "54",
+        "baselinePrestige": "45",
+        "ratDiscipline": "50",
+        "ratOvr": "52",
+        "name": "Terry A. Smith",
+        "contractYear": "2"
+      },
+      "rival": "Clark"
+    }
+  ],
+  "confFullName": "Southern Athletic Association",
+  "confPrestige": "62",
+  "confName": "SAA"
+}
+],
+{
+  "confTeams": [
+    {
+      "abbreviation": "MC",
+      "prestige": "63",
+      "state": "Texas",
+      "name": "Mary Hardin-Baylor",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "46",
+        "ratOff": "80",
+        "cumulativePrestige": "55",
+        "ratDef": "75",
+        "homeState": "Texas",
+        "ratTalent": "78",
+        "baselinePrestige": "70",
+        "ratDiscipline": "72",
+        "ratOvr": "77",
+        "name": "Pete Fredenburg",
+        "contractYear": "3"
+      },
+      "rival": "Howard Payne"
+    },
+    {
+      "abbreviation": "ETBU",
+      "prestige": "60",
+      "state": "Texas",
+      "name": "East Texas Baptist University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2019",
+        "age": "44",
+        "ratOff": "75",
+        "cumulativePrestige": "40",
+        "ratDef": "70",
+        "homeState": "Texas",
+        "ratTalent": "73",
+        "baselinePrestige": "65",
+        "ratDiscipline": "68",
+        "ratOvr": "72",
+        "name": "Scott W. Moffett",
+        "contractYear": "2"
+      },
+      "rival": "Louisiana College"
+    },
+    {
+      "abbreviation": "HP",
+      "prestige": "59",
+      "state": "Texas",
+      "name": "Howard Payne University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "40",
+        "ratOff": "74",
+        "cumulativePrestige": "30",
+        "ratDef": "65",
+        "homeState": "Texas",
+        "ratTalent": "69",
+        "baselinePrestige": "58",
+        "ratDiscipline": "62",
+        "ratOvr": "66",
+        "name": "Braxton Harris",
+        "contractYear": "1"
+      },
+      "rival": "Mary Hardin-Baylor"
+    },
+    {
+      "abbreviation": "LU",
+      "prestige": "57",
+      "state": "Louisiana",
+      "name": "Louisiana College",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2017",
+        "age": "49",
+        "ratOff": "72",
+        "cumulativePrestige": "28",
+        "ratDef": "64",
+        "homeState": "Louisiana",
+        "ratTalent": "67",
+        "baselinePrestige": "55",
+        "ratDiscipline": "61",
+        "ratOvr": "64",
+        "name": "Ben McLaughlin",
+        "contractYear": "4"
+      },
+      "rival": "ETBU"
+    },
+    {
+      "abbreviation": "UMHB",
+      "prestige": "56",
+      "state": "Texas",
+      "name": "University of Mary Hardin-Baylor",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2021",
+        "age": "39",
+        "ratOff": "70",
+        "cumulativePrestige": "20",
+        "ratDef": "60",
+        "homeState": "Texas",
+        "ratTalent": "65",
+        "baselinePrestige": "50",
+        "ratDiscipline": "55",
+        "ratOvr": "60",
+        "name": "Joey G. Haynes",
+        "contractYear": "2"
+      },
+      "rival": "Howard Payne"
+    },
+    {
+      "abbreviation": "CON",
+      "prestige": "54",
+      "state": "Texas",
+      "name": "Concordia University Texas",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2019",
+        "age": "42",
+        "ratOff": "68",
+        "cumulativePrestige": "25",
+        "ratDef": "57",
+        "homeState": "Texas",
+        "ratTalent": "60",
+        "baselinePrestige": "50",
+        "ratDiscipline": "53",
+        "ratOvr": "56",
+        "name": "Joe C. Lee",
+        "contractYear": "1"
+      },
+      "rival": "Mary Hardin-Baylor"
+    },
+    {
+      "abbreviation": "SAG",
+      "prestige": "52",
+      "state": "Texas",
+      "name": "Sul Ross State University",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "47",
+        "ratOff": "66",
+        "cumulativePrestige": "24",
+        "ratDef": "55",
+        "homeState": "Texas",
+        "ratTalent": "59",
+        "baselinePrestige": "48",
+        "ratDiscipline": "51",
+        "ratOvr": "54",
+        "name": "Gabriel L. Alvarez",
+        "contractYear": "3"
+      },
+      "rival": "East Texas Baptist"
+    },
+    {
+      "abbreviation": "TXL",
+      "prestige": "50",
+      "state": "Texas",
+      "name": "Texas Lutheran University",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2021",
+        "age": "41",
+        "ratOff": "64",
+        "cumulativePrestige": "18",
+        "ratDef": "53",
+        "homeState": "Texas",
+        "ratTalent": "55",
+        "baselinePrestige": "45",
+        "ratDiscipline": "50",
+        "ratOvr": "52",
+        "name": "Henry T. McGrath",
+        "contractYear": "1"
+      },
+      "rival": "Howard Payne"
+    },
+    {
+      "abbreviation": "SC",
+      "prestige": "48",
+      "state": "Texas",
+      "name": "Southwestern University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "37",
+        "ratOff": "62",
+        "cumulativePrestige": "22",
+        "ratDef": "52",
+        "homeState": "Texas",
+        "ratTalent": "51",
+        "baselinePrestige": "40",
+        "ratDiscipline": "47",
+        "ratOvr": "49",
+        "name": "Kenneth J. Evans",
+        "contractYear": "2"
+      },
+      "rival": "Mary Hardin-Baylor"
+    }
+  ],
+  "confFullName": "American Southwest Conference",
+  "confPrestige": "60",
+  "confName": "ASC"
+}
+],
+{
+  "confTeams": [
+    {
+      "abbreviation": "WITT",
+      "prestige": "68",
+      "state": "Ohio",
+      "name": "Wittenberg University",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2019",
+        "age": "45",
+        "ratOff": "81",
+        "cumulativePrestige": "60",
+        "ratDef": "79",
+        "homeState": "Ohio",
+        "ratTalent": "80",
+        "baselinePrestige": "75",
+        "ratDiscipline": "72",
+        "ratOvr": "77",
+        "name": "Scott A. Allgayer",
+        "contractYear": "3"
+      },
+      "rival": "Oberlin College"
+    },
+    {
+      "abbreviation": "OWU",
+      "prestige": "64",
+      "state": "Ohio",
+      "name": "Ohio Wesleyan University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "40",
+        "ratOff": "77",
+        "cumulativePrestige": "50",
+        "ratDef": "74",
+        "homeState": "Ohio",
+        "ratTalent": "76",
+        "baselinePrestige": "70",
+        "ratDiscipline": "67",
+        "ratOvr": "73",
+        "name": "Kyle E. Haskins",
+        "contractYear": "1"
+      },
+      "rival": "Wittenberg University"
+    },
+    {
+      "abbreviation": "DEN",
+      "prestige": "62",
+      "state": "Ohio",
+      "name": "Denison University",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "39",
+        "ratOff": "75",
+        "cumulativePrestige": "45",
+        "ratDef": "71",
+        "homeState": "Ohio",
+        "ratTalent": "72",
+        "baselinePrestige": "65",
+        "ratDiscipline": "60",
+        "ratOvr": "67",
+        "name": "Dylan A. McKinney",
+        "contractYear": "2"
+      },
+      "rival": "Ohio Wesleyan University"
+    },
+    {
+      "abbreviation": "WIL",
+      "prestige": "61",
+      "state": "Ohio",
+      "name": "Wilmington College",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2021",
+        "age": "38",
+        "ratOff": "70",
+        "cumulativePrestige": "35",
+        "ratDef": "68",
+        "homeState": "Ohio",
+        "ratTalent": "69",
+        "baselinePrestige": "56",
+        "ratDiscipline": "64",
+        "ratOvr": "66",
+        "name": "Aaron B. Johnson",
+        "contractYear": "1"
+      },
+      "rival": "Denison University"
+    },
+    {
+      "abbreviation": "KEN",
+      "prestige": "58",
+      "state": "Ohio",
+      "name": "Kenyon College",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "50",
+        "ratOff": "68",
+        "cumulativePrestige": "28",
+        "ratDef": "65",
+        "homeState": "Ohio",
+        "ratTalent": "63",
+        "baselinePrestige": "50",
+        "ratDiscipline": "58",
+        "ratOvr": "62",
+        "name": "Patrick L. Haynes",
+        "contractYear": "4"
+      },
+      "rival": "Wittenberg University"
+    },
+    {
+      "abbreviation": "OBE",
+      "prestige": "57",
+      "state": "Ohio",
+      "name": "Oberlin College",
+      "headCoach": {
+        "contractLength": "3",
+        "startYear": "2021",
+        "age": "35",
+        "ratOff": "66",
+        "cumulativePrestige": "22",
+        "ratDef": "63",
+        "homeState": "Ohio",
+        "ratTalent": "60",
+        "baselinePrestige": "48",
+        "ratDiscipline": "55",
+        "ratOvr": "58",
+        "name": "Marcus A. Baker",
+        "contractYear": "2"
+      },
+      "rival": "Wittenberg University"
+    },
+    {
+      "abbreviation": "HIR",
+      "prestige": "55",
+      "state": "Ohio",
+      "name": "Hiram College",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2020",
+        "age": "42",
+        "ratOff": "64",
+        "cumulativePrestige": "20",
+        "ratDef": "60",
+        "homeState": "Ohio",
+        "ratTalent": "57",
+        "baselinePrestige": "45",
+        "ratDiscipline": "52",
+        "ratOvr": "55",
+        "name": "Frank J. Simmons",
+        "contractYear": "3"
+      },
+      "rival": "Kenyon College"
+    },
+    {
+      "abbreviation": "ALLE",
+      "prestige": "54",
+      "state": "Ohio",
+      "name": "Allegheny College",
+      "headCoach": {
+        "contractLength": "5",
+        "startYear": "2018",
+        "age": "46",
+        "ratOff": "62",
+        "cumulativePrestige": "18",
+        "ratDef": "58",
+        "homeState": "Ohio",
+        "ratTalent": "54",
+        "baselinePrestige": "42",
+        "ratDiscipline": "48",
+        "ratOvr": "50",
+        "name": "Troy K. Bailey",
+        "contractYear": "4"
+      },
+      "rival": "Oberlin College"
+    },
+    {
+      "abbreviation": "WAB",
+      "prestige": "52",
+      "state": "Ohio",
+      "name": "Wabash College",
+      "headCoach": {
+        "contractLength": "4",
+        "startYear": "2019",
+        "age": "44",
+        "ratOff": "60",
+        "cumulativePrestige": "15",
+        "ratDef": "56",
+        "homeState": "Ohio",
+        "ratTalent": "52",
+        "baselinePrestige": "40",
+        "ratDiscipline": "45",
+        "ratOvr": "49",
+        "name": "Gregory L. Wright",
+        "contractYear": "2"
+      },
+      "rival": "Wittenberg University"
+    }
+  ],
+  "confFullName": "North Coast Athletic Conference",
+  "confPrestige": "63",
+  "confName": "NCAC"
+}
+]
